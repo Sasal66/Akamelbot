@@ -26,7 +26,7 @@ global.APIKeys = {
 
 //—————「 Set Nama Bot & Own 」—————//
 //terserah mau ubah atau nggak
-global.namabot = 'Mizuhara-Mdོ'
+global.namabot = 'ANIABOZ'
 global.namaowner = 'ᴹᴿ᭄defα͢͢͢ή彡'
 
 //—————「 Setting Owner 」—————//
@@ -54,7 +54,7 @@ global.myweb = 'https://vm.tiktok.com/ZSRHseskm/'
 //—————「 Set Wm 」—————//
 //terserah mau ubah atau nggak
 global.packname = 'ᴹᴿ᭄defα͢͢͢ή彡'
-global.author = 'Mizuhara-Mdོ'
+global.author = 'ANIABOZ'
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² ini!
